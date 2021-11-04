@@ -1,0 +1,14 @@
+name = "Project Red - Integration"
+filename = "ProjectRed-1.16.5-4.11.0-beta-0-integration.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/383/ProjectRed-1.16.5-4.11.0-beta-0-integration.jar"
+hash-format = "murmur2"
+hash = "4108746878"
+
+[update]
+[update.curseforge]
+file-id = 3459383
+project-id = 229045
+release-channel = "beta"

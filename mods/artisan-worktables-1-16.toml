@@ -1,0 +1,14 @@
+name = "Artisan Worktables 1.16"
+filename = "artisanworktables-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3277/959/artisanworktables-2.0.1.jar"
+hash-format = "murmur2"
+hash = "3579774858"
+
+[update]
+[update.curseforge]
+file-id = 3277959
+project-id = 437529
+release-channel = "beta"

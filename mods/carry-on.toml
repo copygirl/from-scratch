@@ -1,0 +1,14 @@
+name = "Carry On"
+filename = "carryon-1.16.5-1.15.5.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3339/353/carryon-1.16.5-1.15.5.15.jar"
+hash-format = "murmur2"
+hash = "1143236652"
+
+[update]
+[update.curseforge]
+file-id = 3339353
+project-id = 274259
+release-channel = "beta"

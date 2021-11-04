@@ -1,0 +1,14 @@
+name = "Farmer's Delight"
+filename = "FarmersDelight-1.16.5-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3503/844/FarmersDelight-1.16.5-0.5.1.jar"
+hash-format = "murmur2"
+hash = "2479909544"
+
+[update]
+[update.curseforge]
+file-id = 3503844
+project-id = 398521
+release-channel = "beta"

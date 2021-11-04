@@ -1,0 +1,14 @@
+name = "Project Red - Illumination"
+filename = "ProjectRed-1.16.5-4.11.0-beta-0-illumination.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/384/ProjectRed-1.16.5-4.11.0-beta-0-illumination.jar"
+hash-format = "murmur2"
+hash = "2908987432"
+
+[update]
+[update.curseforge]
+file-id = 3459384
+project-id = 229046
+release-channel = "beta"

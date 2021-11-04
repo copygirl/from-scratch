@@ -1,0 +1,12 @@
+name = "From Scratch"
+author = "copygirl"
+version = "0.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6298b73eb99e407e8c40e116e7eba09dac7184924858476d902e246445821bed"
+
+[versions]
+forge = "36.2.8"
+minecraft = "1.16.5"

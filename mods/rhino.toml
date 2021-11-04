@@ -1,0 +1,14 @@
+name = "Rhino"
+filename = "rhino-forge-1605.1.4-build.67.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3493/61/rhino-forge-1605.1.4-build.67.jar"
+hash-format = "murmur2"
+hash = "864474731"
+
+[update]
+[update.curseforge]
+file-id = 3493061
+project-id = 416294
+release-channel = "beta"

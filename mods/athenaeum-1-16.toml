@@ -1,0 +1,14 @@
+name = "Athenaeum 1.16"
+filename = "athenaeum-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3466/387/athenaeum-2.0.1.jar"
+hash-format = "murmur2"
+hash = "2242743530"
+
+[update]
+[update.curseforge]
+file-id = 3466387
+project-id = 437531
+release-channel = "beta"

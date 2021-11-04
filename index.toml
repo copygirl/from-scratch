@@ -1,0 +1,298 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/artisanworktables/artisanworktables-common.toml"
+hash = "ee7d3d0974f252b00a54315c6253df7035822db06c4d134ae6451067373086ed"
+
+[[files]]
+file = "config/charm-common.toml"
+hash = "326477deb2dff7122a5a79bdaa7f3fcd5d69f01a9536b700daf4ed5720670954"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "4cc253900bdbba46f5146e8532320e84ad90853c75633e07bfef5fa5f312436c"
+
+[[files]]
+file = "config/dynamictrees-common.toml"
+hash = "b2de62f3fa3b4e3b28f6f6c3412dd1bb1509091777893ce0a5c7319629308099"
+
+[[files]]
+file = "config/forgery/features.ini"
+hash = "362bec7b27c6ba6c1c04f89768ed7a7e9312d2f10e2e5ee95ff37b5ee6af3a7a"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "f04a68944982f382e9782a9c589d6e39882e039014e18975259d877bfbccf7f5"
+
+[[files]]
+file = "defaultconfigs/carryon-server.toml"
+hash = "cdc436bf6189984a3ed80870f813ccd192446075689a3f2a6a90779dc1cebb96"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "7b12e82083666ba22b8fcc55316c8626a92e690616a6084af1f594763c02eb4b"
+
+[[files]]
+file = "defaultconfigs/dynamictrees-server.toml"
+hash = "af1f898c7a153684481be2f6348078259d592bae7264b90a14e38aa3b4be1f73"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/base_claylike.png"
+hash = "d7d68c793ab820125bc101bc5ac869dada5858cf9bfefd0b9147928b9a2133b6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/base_powderlike.png"
+hash = "6c3648b4e0f8b3288b53e4e2adb90ca087474e720d9a549abb3da29eaa1d4f5d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/dirt.png"
+hash = "b3e62ddeb5642582bf5cd33b2e5130e5ae9baaa528c866e0604289a3a86def51"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/gravel.png"
+hash = "30b5f9d3df06043b5838760d96ef4e2eba1cbecbb3140616df80ca08c0d055bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/red_sand.png"
+hash = "5e59ac8dfbf8bc3d5751d66db5d7e15002185491860470c45b260362eb9c3561"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/sand.png"
+hash = "972e1606d59d076ad50b2f4ac10ac14ead46b3323ca1725ab61edacc0b8f4235"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/soul_sand.png"
+hash = "d7db63c00b0a07ecc6576aad1b3698d754a3a40650b5fcdee60b2e98aba2568f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/andesite.png"
+hash = "aeba67ed9845b0f2b7043e0016a7ca50b0364562fa43df83db8447b821a3f9c0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/basalt.png"
+hash = "f87a6006547b4e3427e7bad740b80b9ab7bd4982b2aef758823177fbcd9fa3ec"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/base.png"
+hash = "19a6cb034dc2490c408a5f53b3bfb6c1c6726b536c372a508146970a736a6cad"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/blackstone.png"
+hash = "ddaeb2a9d4faa0ff8c53544fb8b6d8f919e5608e4fc9563459b7bca4380c07f7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/dark_scoria.png"
+hash = "256decd65a4583e49ef2d11a4240191e03e1236c2148cbb258ec4c610981b65e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/deepslate.png"
+hash = "4126b4b6f759eca032260a1851eeccaa1ee3ed4718c6e0008257e2f3ac3f3111"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/diorite.png"
+hash = "20ebfac2970e5920e34c84be73359be66105cc4f8ab6cdcfd50a0e2c59431559"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/dolomite.png"
+hash = "2629c43bfc146ab918611af642cf49d4a618a50a7475bfdc7acdd6a0ba84abc4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/end_stone.png"
+hash = "8b5137e56ebe1e352377f72e2f73759bd1626cdba8f687d670732894f906cf2a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/gabbro.png"
+hash = "b8ff0301c8cd43e124a6f675aa6200e5a94aead5356add516dfac8fe83ad7284"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/granite.png"
+hash = "291ebc38334a64bc4dd0000dc7f7c2fcd6600a4cd27ee2c9a9df23e612182ace"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/limestone.png"
+hash = "db13ee81e697830f7a351b18b977aa75048cc1bc15e9679294d3b25134c9803e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/netherrack.png"
+hash = "86d510725da583f8829ae7fa54e59f4086dcad50980f3ee065bac7a993816306"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/red_sandstone.png"
+hash = "d35388bec8400010af478419393857aa057d2158532a5c7d6e3e60748c181d85"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/sandstone.png"
+hash = "3738b856542286889604e2fe38e56fa35ce6fc00412c413fca811bb664137fb1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/scoria.png"
+hash = "1a5920beb9708d0d016759f021b14b4bb7859a8331adec21149ab13bcf631821"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/soul_sandstone.png"
+hash = "5105e6f0f5db90510d4cb3675e2662f20c41650ff4a4757a1eacead961c687de"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/stone.png"
+hash = "68fbc7bc9893b41fdef33cc7afbe15072ac9d89c15c4192d30315f0cf88348db"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rock/weathered_limestone.png"
+hash = "5106d137c140217565732043455bae01c7d45215de2d91187f3d8dee1a18469f"
+
+[[files]]
+file = "kubejs/startup_scripts/content/piles.js"
+hash = "20d9c343d1fe813929ca4530f9a12628f3c904714026ad172338f9bfcc649cff"
+
+[[files]]
+file = "kubejs/startup_scripts/content/rocks.js"
+hash = "1b2915f752a31833a260c33860a01a174441a71f291c643d0b2ef483a0d913b5"
+
+[[files]]
+file = "kubejs/startup_scripts/definition/stone.js"
+hash = "ec9e03cd938a5721f7f16aff02f9dc23df2334757145e61eb3f561f5383b8e05"
+
+[[files]]
+file = "kubejs/startup_scripts/modify_stacksize.js"
+hash = "5ebfe89f9a2f4d76e8826979d0993afcb1786df5a86374ac361a03fcc2bf7bc2"
+
+[[files]]
+file = "kubejs/startup_scripts/nuke_all_recipes.js"
+hash = "de57c31a494214a8a673d078ddc910b05b4183e54a78d31c9c4cf1d2ca192274"
+
+[[files]]
+file = "kubejs/startup_scripts/nuke_jei_items.js"
+hash = "632b23643aaed5c98771c192ac8c8f326de35b316d4a49967f584d68c665e564"
+
+[[files]]
+file = "kubejs/startup_scripts/utility.js"
+hash = "24fb54f1888ace0fdbf34897aad4f1df578c7d2a09df32c99fdb552ee25d3b34"
+
+[[files]]
+file = "mods/DynamicTrees-1.16.5-0.10.0-kwoppain.jar"
+hash = "87a236057331fa368818346500ba25300372cbe48f570fcf4884173bbc4689d5"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "f129d70b91715f23de3b9508e681212572d380cc79cfa6f443161d23179719b5"
+metafile = true
+
+[[files]]
+file = "mods/artisan-worktables-1-16.toml"
+hash = "235b82bacd59fe0d0d1942198f43656289ede6708203d700c711870989d1294a"
+metafile = true
+
+[[files]]
+file = "mods/athenaeum-1-16.toml"
+hash = "86e680972f84fe3cdba6cf6a138b2426d53e39b4408d658a730ad907ac959a90"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.toml"
+hash = "1c4b54c7613a2c83bf488d539550ff5e46fcfd0317bf2e49856a4f6f434416f1"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.toml"
+hash = "d29f8c741be3f645db79e0545705ef100b410aedc23e2c87d61e4e723897a2b1"
+metafile = true
+
+[[files]]
+file = "mods/charm-reforged.toml"
+hash = "c595750aa5da10cf6d1122c64832d34537f76a969246d342e29df1021a867093"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "86cd3d36d40d5d3f080dec647dfd3144d3ae59f0c72c43947bde9f0566cb6bb8"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "c9b94c89114636e59eb9633aee278d9355fb0b44c3e77d76b387ed713f8da505"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.toml"
+hash = "9a40ff3604bd0f0bdaa17ca6d8fd33c795be1219672cc748539cd8172a09f5b7"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "0c850300c22c1e37bfd12eef0a6a8266b2123a1a6c39cd8ab2b14b5e22fc34b0"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
+metafile = true
+
+[[files]]
+file = "mods/forgery.toml"
+hash = "eac477ff5dcea74e52b443768ee05a6152f1b7e83975b40b2f90b5681e337426"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "88f024fd85ab5699cda4168f580d30be9699cf23fbf73e3508f69f87e797fc10"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.toml"
+hash = "67668a78c0e9b5c40099cf8b56f7fa3ec28a77150269a9d745f2fb066cdd50e3"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.toml"
+hash = "c2134e628147d0c3053dc7f4a8d8757bd1b82962bd91f4f605ece1111a077a8d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.toml"
+hash = "ab721d203e0549da59dc6ad7a70771c45ff1e001a25c7ccd937ebbe6058c5ec5"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.toml"
+hash = "fba2f32f58e76ccb3192138df047f1423d8d1812409cde65e24ef367897524b4"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.toml"
+hash = "7e8c321cab6faf192f7bf85133621115af248ccd8865a64ab4ca72eebefd3577"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.toml"
+hash = "5a7af733a13fb2b56509cffcce876987277c6c7912aa5e4ed67ab0d9ee6621c1"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "4f5b37c235a7b6b8ff54800cc22220647f5c8430dcf8df240483e8bde3837f5f"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "8b9dd06fbb8de11ffcb5166ddb6865320d6d8e6d50bfa23b3f4c113401cad883"
+metafile = true
+
+[[files]]
+file = "mods/scorge.toml"
+hash = "fb88db6b76090575ce338ddb7e026f4a9098eb339affa72d678a9e4b716a4031"
+metafile = true

@@ -1,0 +1,14 @@
+name = "CB Multipart"
+filename = "CBMultipart-1.16.5-3.0.2.120-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/903/CBMultipart-1.16.5-3.0.2.120-universal.jar"
+hash-format = "murmur2"
+hash = "2720710764"
+
+[update]
+[update.curseforge]
+file-id = 3459903
+project-id = 258426
+release-channel = "beta"
