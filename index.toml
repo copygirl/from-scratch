@@ -21,6 +21,10 @@ file = "config/forgery/features.ini"
 hash = "362bec7b27c6ba6c1c04f89768ed7a7e9312d2f10e2e5ee95ff37b5ee6af3a7a"
 
 [[files]]
+file = "config/jei-client.toml"
+hash = "05950934b205d9f8679e84d158edfac139441a11e088b60502d38c66e5cffe00"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "f04a68944982f382e9782a9c589d6e39882e039014e18975259d877bfbccf7f5"
 
@@ -142,7 +146,7 @@ hash = "5106d137c140217565732043455bae01c7d45215de2d91187f3d8dee1a18469f"
 
 [[files]]
 file = "kubejs/startup_scripts/content/piles.js"
-hash = "20d9c343d1fe813929ca4530f9a12628f3c904714026ad172338f9bfcc649cff"
+hash = "2e81ab16ce1c77d078693ed17caa89406cca338763c13f2d62cc40bc49b10b34"
 
 [[files]]
 file = "kubejs/startup_scripts/content/rocks.js"
@@ -169,8 +173,8 @@ file = "kubejs/startup_scripts/utility.js"
 hash = "24fb54f1888ace0fdbf34897aad4f1df578c7d2a09df32c99fdb552ee25d3b34"
 
 [[files]]
-file = "mods/DynamicTrees-1.16.5-0.10.0-kwoppain.jar"
-hash = "87a236057331fa368818346500ba25300372cbe48f570fcf4884173bbc4689d5"
+file = "mods/DynamicTrees-1.16.5-0.10.0-scratch.jar"
+hash = "23305098acabbc8e56135abb6c2f057bafd4e3d3aef7b4e9db7be39f8d5c1edf"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -218,6 +222,11 @@ hash = "86cd3d36d40d5d3f080dec647dfd3144d3ae59f0c72c43947bde9f0566cb6bb8"
 metafile = true
 
 [[files]]
+file = "mods/configured.toml"
+hash = "380a38854410bf5e935d1bfca72bcbee67a2e548c17aeea4c9a5b43366acd618"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "c9b94c89114636e59eb9633aee278d9355fb0b44c3e77d76b387ed713f8da505"
 metafile = true
@@ -243,9 +252,8 @@ hash = "eac477ff5dcea74e52b443768ee05a6152f1b7e83975b40b2f90b5681e337426"
 metafile = true
 
 [[files]]
-file = "mods/jei.toml"
-hash = "88f024fd85ab5699cda4168f580d30be9699cf23fbf73e3508f69f87e797fc10"
-metafile = true
+file = "mods/jei-1.16.5-7.7.1-scratch.jar"
+hash = "ee18b5d8aee50b3c913e25a28f6e84c1365b443e5ccda2b74060f2d8be376e97"
 
 [[files]]
 file = "mods/kubejs-create.toml"

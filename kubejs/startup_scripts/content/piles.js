@@ -43,4 +43,6 @@ onEvent("jei.add.items", event => {
     event.add("kubejs:" + id + "_pile");
     for (let block of blocks) event.add(block);
   }
+
+  event.add("minecraft:coarse_dirt");
 });
