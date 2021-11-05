@@ -41,6 +41,42 @@ file = "defaultconfigs/dynamictrees-server.toml"
 hash = "af1f898c7a153684481be2f6348078259d592bae7264b90a14e38aa3b4be1f73"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/board/acacia.png"
+hash = "e9c0ba7404e719327dbf8a7d29e97aa0ac7119554ec4dfab936bbbdcbe075754"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/base.png"
+hash = "acfd3bf073345d1ebc262d72ea69018a6642bda7bf05988698df22209c7f49da"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/birch.png"
+hash = "98d7f1b2e785bb97aff81a63bc541e1c13567f5c2b26f778288c646225131cf8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/crimson.png"
+hash = "cfe9e03d0700a7d38efec6ca4cf7825b75fb8bbc8ee49dfc9e25b9123a8a00d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/dark_oak.png"
+hash = "96050faa2dad069295ae4513bce84f8b3e97451b292980aa7116c121f98e1b18"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/jungle.png"
+hash = "b30d6729b5c289bfba2de39fc377032c2b1eef3b36076bcbec06870c10c6649b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/oak.png"
+hash = "1e7d28f30309164cebdf38758e317249e4882863ff471ffc0f926d39fcea93e1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/spruce.png"
+hash = "3c1882589010416d337d6b1331f717081a90f0ca9442879c2e932ae3a3aaf05f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/board/warped.png"
+hash = "c0aedee419e9882f1e26e7af452a3d28e5a53120792c018333fd1d6a6d8d0442"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/pile/base_claylike.png"
 hash = "d7d68c793ab820125bc101bc5ac869dada5858cf9bfefd0b9147928b9a2133b6"
 
@@ -55,6 +91,10 @@ hash = "b3e62ddeb5642582bf5cd33b2e5130e5ae9baaa528c866e0604289a3a86def51"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pile/gravel.png"
 hash = "30b5f9d3df06043b5838760d96ef4e2eba1cbecbb3140616df80ca08c0d055bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pile/limesand.png"
+hash = "1e9992e523854bae2ac33df5fe6df1fead6f96eaea78ea1cb51a73bffcfcb392"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pile/red_sand.png"
@@ -145,16 +185,24 @@ file = "kubejs/assets/kubejs/textures/item/rock/weathered_limestone.png"
 hash = "5106d137c140217565732043455bae01c7d45215de2d91187f3d8dee1a18469f"
 
 [[files]]
+file = "kubejs/startup_scripts/content/boards.js"
+hash = "190a0485bdb3352930237bace251d50d8d4e167b3dddf75504b9f73bb4c44a91"
+
+[[files]]
 file = "kubejs/startup_scripts/content/piles.js"
-hash = "2e81ab16ce1c77d078693ed17caa89406cca338763c13f2d62cc40bc49b10b34"
+hash = "f380cdab09aaf9878ffa6aea0df71bc32642b79ba0c4b6b749d8d245bbade5fc"
 
 [[files]]
 file = "kubejs/startup_scripts/content/rocks.js"
-hash = "1b2915f752a31833a260c33860a01a174441a71f291c643d0b2ef483a0d913b5"
+hash = "56c595fcf7960410b7d64123a554a6f64949687f36500a57fee939b3e6cdabad"
 
 [[files]]
 file = "kubejs/startup_scripts/definition/stone.js"
 hash = "ec9e03cd938a5721f7f16aff02f9dc23df2334757145e61eb3f561f5383b8e05"
+
+[[files]]
+file = "kubejs/startup_scripts/definition/wood.js"
+hash = "4efae9b2ebc1054839f8177946e9e13bb099385611b0afa80e4a6fbc206fdb20"
 
 [[files]]
 file = "kubejs/startup_scripts/modify_stacksize.js"
@@ -162,7 +210,7 @@ hash = "5ebfe89f9a2f4d76e8826979d0993afcb1786df5a86374ac361a03fcc2bf7bc2"
 
 [[files]]
 file = "kubejs/startup_scripts/nuke_all_recipes.js"
-hash = "de57c31a494214a8a673d078ddc910b05b4183e54a78d31c9c4cf1d2ca192274"
+hash = "6700f395a09bbeaac0f68f02713fffa8bae1aea77a6af079ee9170d10cb9a874"
 
 [[files]]
 file = "kubejs/startup_scripts/nuke_jei_items.js"
