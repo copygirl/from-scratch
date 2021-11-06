@@ -314,6 +314,10 @@ hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
 metafile = true
 
 [[files]]
+file = "mods/plonk-1.16.5-9.0.8-scratch.jar"
+hash = "ddc05b31cdd933cafe1433b2b200fe8f735f7de42d5458a9f02731ac04d8b2a1"
+
+[[files]]
 file = "mods/project-red-core.toml"
 hash = "c2134e628147d0c3053dc7f4a8d8757bd1b82962bd91f4f605ece1111a077a8d"
 metafile = true
